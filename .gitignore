@@ -1,0 +1,6 @@
+.env
+.hermes-src/
+__pycache__/
+.pytest_cache/
+WIN-DECISION.md
+GITHUB-CRAWL.md

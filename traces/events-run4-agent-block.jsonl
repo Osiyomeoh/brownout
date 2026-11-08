@@ -1,0 +1,538 @@
+{"t": 1794143845.00577, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794143850.0325959, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794143855.151834, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794143865.009495, "event": "notify", "kind": "alert", "delivered": true, "text": "Brownout: power lost on this machine. Battery 98%. Measuring the real drain now. 1 scheduled job(s) active: nightly-report. Reply /brownout park to pause them and stop new tool calls, or /brownout keep to carry on.", "sample_t": 1794143860.1854348}
+{"t": 1794143860.1854348, "event": "tick", "prev": "on_ac", "state": "on_battery", "actions": ["alert"], "reason": "power lost", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143870.0373929, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143875.068081, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143880.085706, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143885.108085, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143890.124789, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143895.151045, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143900.1705441, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143905.197141, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143910.2201211, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143915.268026, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143920.282181, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143925.3093991, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143930.330092, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143935.363311, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143940.389458, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143945.441204, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143950.4729228, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143955.491488, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143960.53313, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143965.56388, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143970.5967739, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143975.625497, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143980.6618712, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143985.688033, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143990.715638, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794143995.747832, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144000.783239, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144005.8176289, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144010.850646, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144015.885494, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144020.911293, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144025.932374, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144030.956106, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144035.98512, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144041.0060108, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144046.028859, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144051.051266, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144056.075273, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144061.100698, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144066.119329, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144071.13994, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144076.164063, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144081.189954, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144086.2213938, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144091.249745, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144096.2856598, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144101.321088, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144106.365333, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144111.413959, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144116.465186, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144121.509713, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144126.534645, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144131.576311, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144136.6174788, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144141.6559, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144146.677483, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144151.716585, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144156.75439, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144161.794354, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144166.826217, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144171.858022, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144176.892462, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144181.923746, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144186.952706, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144191.9893508, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144197.013026, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144202.046627, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144207.082366, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144212.13311, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144217.168701, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144222.200432, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144227.227675, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144232.270497, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144237.3039, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144242.347739, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144247.390476, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144252.428381, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144257.462815, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144262.4920828, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144267.526196, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144272.561815, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144277.60517, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144282.636726, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144287.6669078, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144292.725657, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144297.761, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144302.781941, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144307.82356, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144312.864236, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144317.902068, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144322.943509, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144327.972532, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144333.013095, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144338.045007, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144343.075253, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144348.108284, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144353.14589, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144358.179282, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144363.213701, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144368.244097, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144373.276638, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144378.318666, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144383.343552, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144388.3816268, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144393.408638, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144398.429328, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144403.466986, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144408.49125, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144413.5359318, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144418.576268, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144423.621417, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144428.663203, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144433.708759, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144438.747809, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144443.7886982, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144448.82646, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144453.86514, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144458.912631, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144463.950897, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144468.988518, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144474.028095, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144479.056158, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144484.0968971, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144489.143965, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144494.18149, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144499.22302, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144504.267924, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144509.299829, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144514.3282392, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144519.369834, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144524.413718, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144529.456817, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144534.505184, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144539.549196, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144544.581609, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144549.623559, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144554.66575, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144559.712288, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144564.75422, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144569.798528, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144574.8409338, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144579.889954, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144584.934051, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144589.9744341, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144595.021158, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144600.061758, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144605.0948238, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144610.141545, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144615.184923, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144620.22969, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144625.2516491, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144630.280405, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144635.326525, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144640.367367, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144645.413008, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144650.444635, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144655.4881332, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144660.51697, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144665.55284, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144670.601901, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144675.643948, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144680.689282, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144685.732554, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144690.778489, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144695.824357, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144700.8670971, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144705.908583, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144710.949493, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144715.992644, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144721.032928, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144726.0781891, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144731.1090078, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144736.152066, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144741.1932511, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144746.230649, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144751.2703161, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144756.3122408, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144761.354186, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144766.395624, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144771.4393759, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144776.4851441, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144781.527494, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144786.569694, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144791.603648, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144796.639715, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144801.669176, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144806.709724, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144811.745473, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144816.7763221, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144821.796459, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144826.832984, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144831.87252, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144836.9140081, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144841.954241, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144846.9938922, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144852.033414, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144857.077866, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144862.120854, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144867.163829, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144872.208022, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144877.249258, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144882.2956312, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144887.3367748, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144892.381584, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144897.423278, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144902.4694269, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144907.512202, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144912.559217, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144917.598969, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144922.641139, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144927.6830132, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144932.720725, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144937.759125, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144942.802798, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144947.8472981, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144952.889073, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144957.931836, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144962.97755, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144968.019259, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144973.063925, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144978.1071181, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144983.140245, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144988.1680288, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144993.2120771, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794144998.248184, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145003.290684, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145008.332917, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145013.3610518, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145018.39977, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145023.443058, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145028.4785962, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145033.5217721, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145038.5633202, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145043.60897, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145048.650939, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145053.697634, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145058.732188, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145063.7745311, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145068.815768, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145073.8580868, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145078.8996391, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145083.938664, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145088.980863, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145094.027369, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145099.0660942, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145104.109133, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145109.152659, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145114.200333, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145119.24108, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145124.286048, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145129.3285, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145134.357357, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145139.3996868, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145144.430507, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145149.4746912, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145154.5206778, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145159.563326, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145164.6104891, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145169.6529589, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145174.700565, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145179.7420201, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145184.787859, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145189.8310559, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145194.8772101, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145199.921928, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145204.969263, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145210.012209, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145215.057622, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145220.100202, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145225.144381, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145230.175332, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145235.221209, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145240.262132, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145245.299538, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145250.326755, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145255.372882, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145260.415029, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145265.459618, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145270.493611, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145275.539561, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145280.578666, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145285.628313, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145290.67086, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145295.7144818, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145300.7568681, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145305.798263, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145310.841701, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145315.882161, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145320.924182, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145325.971052, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145330.993095, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145336.0376241, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145341.077912, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145346.1277251, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145351.170624, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145356.218665, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145361.260261, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145366.3075352, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145371.347019, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145376.3921988, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145381.426451, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145386.4710789, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145391.512058, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145396.554732, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145401.596213, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145406.630341, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145411.672405, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145416.717539, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145421.759867, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145426.787596, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145431.8271308, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145436.860526, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145441.90468, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145446.933992, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145451.986442, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145457.0237482, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145462.064673, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145467.110006, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145472.153732, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145477.194005, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145482.235491, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145487.2770472, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145492.321174, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145497.36653, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145502.393712, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145507.439222, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145512.486022, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145517.527977, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145522.570998, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145527.612894, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145532.655133, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145537.6971269, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145542.739897, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145547.78672, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145552.833055, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145557.875871, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145562.906857, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145567.9492228, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145572.997258, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145578.0399098, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145583.084552, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145588.125045, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145593.165802, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145598.2117178, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145603.255219, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145608.2976599, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145613.323354, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145618.357246, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145623.397653, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145628.444145, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145633.4880362, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145638.533477, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145643.5751832, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145648.618795, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145653.662291, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145658.7084448, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145663.752467, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145668.7881339, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145673.833398, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145678.875702, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145683.916755, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145688.961045, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145694.0038688, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145699.045612, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145704.087615, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145709.129621, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145714.167796, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145719.206845, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145724.2532601, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145729.294453, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145734.3374588, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145739.3790689, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145744.408947, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145749.451318, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145754.493267, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145759.538568, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145764.579545, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145769.621087, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145774.665637, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145779.706845, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145784.7481542, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145789.779558, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145794.827302, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145799.873079, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145804.918164, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145809.9633348, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145815.000124, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145820.0419981, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145825.084328, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145830.110624, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145835.138485, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145840.181921, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145845.230572, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145850.281905, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145855.3247302, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145860.361016, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145865.41187, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145870.4543622, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145875.502448, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145880.548194, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145885.588887, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145890.6182249, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145895.661675, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145900.708035, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145905.749422, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145910.800983, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145915.830584, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145920.877183, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145925.9177861, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145930.96652, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145936.0119581, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145941.058156, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145946.094378, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145951.1355588, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145956.189462, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145961.234026, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145966.2792761, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145971.323568, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145976.357656, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145981.402966, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145986.4467258, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145991.493365, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794145996.531889, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146001.5776372, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146006.619951, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146011.663181, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146016.705676, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146021.750433, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146026.7805068, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146031.805013, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146036.850205, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146041.89236, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146046.920928, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146051.951883, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146056.993301, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146062.035784, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146067.077079, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146072.11264, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146077.144108, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146082.1852438, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146087.229205, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146092.272884, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146097.3154671, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146102.3621278, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146107.404583, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146112.450718, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146117.4958222, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146125.610976, "event": "notify", "kind": "back", "delivered": true, "text": "Brownout: power is back after 38 min on battery. Nothing was parked.", "sample_t": 1794146122.5325172}
+{"t": 1794146122.5325172, "event": "tick", "prev": "on_battery", "state": "on_ac", "actions": ["notify_back"], "reason": "power is back", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146130.64704, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146135.676265, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146140.697727, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146145.717152, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146150.750278, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146155.785068, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146160.8103318, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146165.8339462, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146170.856555, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146175.8935108, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146180.92911, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146185.9463072, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146190.982786, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146196.020782, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146201.0464041, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146206.080941, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146211.1102772, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146216.126435, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146221.147284, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146226.1706429, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146231.205024, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146236.239987, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146241.2767181, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146246.299535, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146251.337091, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146256.358403, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146261.3920279, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146266.433124, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146271.4818182, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146276.513189, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146281.5516999, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146286.580348, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146291.618766, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146296.6582851, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146301.699938, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146306.726054, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146311.769019, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146316.808059, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146321.852611, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146326.8926542, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146331.934576, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146336.9784262, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146342.01371, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146347.0562408, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146352.0971131, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146357.132586, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146362.1681862, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146367.204857, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146372.2459798, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146377.2775931, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146382.31356, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146387.344877, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146395.026894, "event": "notify", "kind": "alert", "delivered": true, "text": "Brownout: power lost on this machine. Battery 98%. Measuring the real drain now. 1 scheduled job(s) active: nightly-report. Reply /brownout park to pause them and stop new tool calls, or /brownout keep to carry on.", "sample_t": 1794146392.381658}
+{"t": 1794146392.381658, "event": "tick", "prev": "on_ac", "state": "on_battery", "actions": ["alert"], "reason": "power lost", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146400.05361, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146405.084108, "event": "tick", "prev": "on_battery", "state": "on_battery", "actions": [], "reason": "on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146410.109765, "event": "notify", "kind": "park", "delivered": true, "text": "Brownout: parked. Paused 1 scheduled job(s); new tool calls are held. Nothing was stopped mid-write, killed or deleted. Reply /brownout resume to undo.", "sample_t": 1794146407.7664142}
+{"t": 1794146407.7664142, "event": "tick", "prev": "on_battery", "state": "parked", "actions": ["park"], "reason": "you chose to park", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146410.104304, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146415.1446662, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146420.179363, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146425.206434, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146430.243027, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146435.2668009, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146440.283552, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146445.322415, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146450.3572469, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146455.381721, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146460.40936, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146465.444215, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146470.465184, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146475.5036201, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146480.540787, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146485.567175, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146490.584832, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146495.631543, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146500.653436, "event": "tick", "prev": "parked", "state": "parked", "actions": [], "reason": "parked on battery", "pct": 98.0, "on_ac": false, "runway_min": null}
+{"t": 1794146508.753076, "event": "notify", "kind": "resumed", "delivered": true, "text": "Brownout: power is back. Resumed 1 job(s) Brownout had paused; tool calls are open again.", "sample_t": 1794146505.6849432}
+{"t": 1794146505.6849432, "event": "tick", "prev": "parked", "state": "on_ac", "actions": ["resume", "notify_resumed"], "reason": "power is back", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146513.796389, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146518.8256068, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146523.8648288, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146528.887508, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}
+{"t": 1794146533.915355, "event": "tick", "prev": "on_ac", "state": "on_ac", "actions": [], "reason": "on mains power", "pct": 98.0, "on_ac": true, "runway_min": null}

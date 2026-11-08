@@ -1,0 +1,27 @@
+name: brownout
+version: 0.1.0
+description: >-
+  Notices when the machine running Hermes loses mains power, measures battery runway from the
+  real drain, messages you, and parks agent work (pauses scheduled jobs, holds new tool calls)
+  until power returns. Nothing is killed or deleted; every park is undone on resume.
+author: Osiyomeoh
+license: MIT
+requires_hermes: ">=0.23.0"
+provides_hooks: [pre_tool_call]
+provides_commands: [brownout]
+# Disclosure (catalog rule 13):
+#  - Background: one daemon thread per HERMES_HOME (file lock in plugin-data/brownout/) polls
+#    power every poll_seconds (default 15).
+#  - Local processes: `pmset -g batt` (macOS) or reads /sys/class/power_supply (Linux), or
+#    `upsc <ups>` if a NUT UPS is configured. 5 s timeout each.
+#  - Network: none of its own. Alerts run the documented `hermes send --to <notify_target>`
+#    CLI (30 s timeout), which uses the gateway's configured credentials and home channel.
+#  - Writes only to <HERMES_HOME>/plugin-data/brownout/ (events.jsonl, watcher.lock).
+settings:
+  notify_target: telegram
+  poll_seconds: 15
+  critical_pct: 15
+  critical_minutes: 10
+  auto_resume: true
+  watch: true
+  ups: null
