@@ -16,9 +16,9 @@ Built for places where the grid is unreliable (it was built in Lagos), and for a
 ## Quick start
 
 ```bash
-hermes plugins install <catalog-name-or-repo>   # [FILL after catalog listing]
-hermes plugins enable brownout
-hermes send --to telegram "test"                # make sure Hermes can reach your phone
+hermes plugins install Osiyomeoh/brownout --enable   # or `brownout` once it is in the catalog
+hermes send --to telegram "test"                     # make sure Hermes can reach your phone
+hermes gateway run                                   # Brownout watches from the running gateway
 ```
 
 **Do this:** unplug the charger. **See this:** at the next power poll (every 15 s by default) plus a

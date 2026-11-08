@@ -4,3 +4,4 @@ __pycache__/
 .pytest_cache/
 WIN-DECISION.md
 GITHUB-CRAWL.md
+ship/

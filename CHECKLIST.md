@@ -12,7 +12,7 @@ https://hermes-agent.nousresearch.com/docs/developer-guide/plugins/catalog-submi
 - [x] Fails cleanly with no power reading / no messaging configured
 - [x] Commands work from Telegram via gateway (run 3, Nov 8)
 - [x] Every README claim proven in CLAIMS.md (run 4: live agent turn blocked)
-- [ ] CI green
+- [x] CI green (run 42488355374, ubuntu + macos, Nov 8)
 - [ ] Catalog YAML with 40-char SHA pin
 
 ## Sam only
