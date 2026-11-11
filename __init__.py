@@ -8,6 +8,7 @@ from __future__ import annotations
 import fcntl
 import json
 import logging
+import os
 import shutil
 import subprocess
 import sys
@@ -26,6 +27,7 @@ _UPS: str | None = None
 _OWN = threading.local()          # set while Brownout itself dispatches a tool
 _LOCK_FH = None                   # held for process lifetime: one watcher per HERMES_HOME
 _ALLOW_WHEN_PARKED = {"cronjob_manage"}
+_ENGINE_LOCK = threading.RLock()   # watcher thread and command handler share one engine
 
 
 def _data_dir() -> Path:
@@ -105,7 +107,7 @@ _STATE_CACHE = {"mtime": None, "data": {}}
 
 def _write_state(engine: Engine) -> None:
     p = _data_dir() / "state.json"
-    tmp = p.with_suffix(".tmp")
+    tmp = p.with_name(f"state.{os.getpid()}.{threading.get_ident()}.tmp")   # one per writer
     tmp.write_text(engine.status())
     tmp.replace(p)
 
@@ -144,9 +146,11 @@ def _drain_commands(engine: Engine) -> None:
 def _watch(engine: Engine, interval: float, ups: str | None) -> None:
     while True:
         try:
-            _drain_commands(engine)
-            engine.tick(read_now(ups=ups))
-            _write_state(engine)
+            sample = read_now(ups=ups)
+            with _ENGINE_LOCK:
+                _drain_commands(engine)
+                engine.tick(sample)
+                _write_state(engine)
         except Exception:
             log.exception("brownout: tick failed")
         time.sleep(interval)
@@ -196,13 +200,15 @@ def _command(raw_args: str) -> str:
             with (_data_dir() / "commands.jsonl").open("a") as fh:
                 fh.write(json.dumps({"cmd": sub, "t": time.time()}) + "\n")
             return f"Brownout: {sub} sent to the watcher; it applies within one poll."
-        eng.command(sub)
-        if sub != "keep":
-            eng.tick(read_now(ups=_UPS))
-        _write_state(eng)
-        if sub == "park" and not eng.parked:
-            return "Brownout: this machine is on mains power, so there is nothing to park. " + eng.status()
-        return f"Brownout: {sub} applied. " + eng.status()
+        sample = read_now(ups=_UPS) if sub != "keep" else None
+        with _ENGINE_LOCK:
+            eng.command(sub)
+            if sample is not None:
+                eng.tick(sample)
+            _write_state(eng)
+            if sub == "park" and not eng.parked:
+                return "Brownout: this machine is on mains power, so there is nothing to park. " + eng.status()
+            return f"Brownout: {sub} applied. " + eng.status()
     if sub == "test-alert":
         ok = eng.fx.notify("Brownout test: alerts from this machine reach you here.")
         return "Test alert sent." if ok else "Test alert failed; check notify_target and the gateway."

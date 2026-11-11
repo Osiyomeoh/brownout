@@ -1,5 +1,5 @@
 name: brownout
-version: 0.1.0
+version: 0.1.1
 description: >-
   Notices when the machine running Hermes loses mains power, measures battery runway from the
   real drain, messages you, and parks agent work (pauses scheduled jobs, holds new tool calls)
