@@ -1,5 +1,4 @@
 """Unit tests for power parsing, forecast and policy. pmset strings are real outputs captured from this Mac."""
-from pathlib import Path
 import pytest
 from core.power import parse_pmset, parse_sysfs, parse_upsc, PowerSample
 from core.forecast import runway

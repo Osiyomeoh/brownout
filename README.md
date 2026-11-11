@@ -16,13 +16,13 @@ Built for places where the grid is unreliable (it was built in Lagos), and for a
 ## Quick start
 
 ```bash
-hermes plugins install Osiyomeoh/brownout --enable   # or `brownout` once it is in the catalog
+hermes plugins install brownout --enable            # from the Hermes plugin catalog
 hermes send --to telegram "test"                     # make sure Hermes can reach your phone
 hermes gateway run                                   # Brownout watches from the running gateway
 ```
 
 **Do this:** unplug the charger. **See this:** at the next power poll (every 15 s by default) plus a
-few seconds to send (2.3–4.8 s in our runs), your phone gets
+few seconds to send (2.5–4.8 s in our runs), your phone gets
 "Brownout: power lost on this machine. Battery 79%. The OS estimates 2:55 left…".
 Reply `/brownout park`. Plug back in and you get "power is back. Resumed 1 job(s)…".
 

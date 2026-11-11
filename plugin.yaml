@@ -16,7 +16,8 @@ provides_commands: [brownout]
 #    `upsc <ups>` if a NUT UPS is configured. 5 s timeout each.
 #  - Network: none of its own. Alerts run the documented `hermes send --to <notify_target>`
 #    CLI (30 s timeout), which uses the gateway's configured credentials and home channel.
-#  - Writes only to <HERMES_HOME>/plugin-data/brownout/ (events.jsonl, watcher.lock).
+#  - Writes only to <HERMES_HOME>/plugin-data/brownout/ (events.jsonl, state.json,
+#    commands.jsonl, watcher.lock).
 settings:
   notify_target: telegram
   poll_seconds: 15
